@@ -36,7 +36,14 @@ Ordered List	: use number[1].
 1. Hello World
 2. Hello World
 	1. Hello Planet
+	2. Hello Planet
+	3. Hello Planet 
 3. Hello World
+
+| column_1 | column_2 | column_3|
+|----------|----------|---------|
+|Hello	   |*The*     | World   |
+
  
 
 
