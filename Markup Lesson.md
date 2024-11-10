@@ -3,9 +3,9 @@
 Text below other than this line of message will be formatted in mark down mark up language:
 
 Heading Text:
-#Heading 1
-##Heading 2
-###Heading 3
+# Heading 1
+## Heading 2
+### Heading 3
 ####Heading 4
 #####Heading 5
 ######Heading 6
