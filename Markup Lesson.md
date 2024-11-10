@@ -55,3 +55,11 @@ Ordered List	: use number[1].
 - [x] select 4
 
 ![Home Icons](/ArewaDataScience/LESSONS/MarkDown_box/4_subhome_card.jpg)
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
