@@ -24,7 +24,7 @@ Subscript:
 ~ Hello World ~	: Hello World : use ~
 
 Superscript:
-^Hello World^	: Hello World : use ^
+^ Hello World ^	: Hello World : use ^
 
 Unordered List	: Use -
 - Hello World
