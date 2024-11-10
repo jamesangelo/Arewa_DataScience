@@ -24,10 +24,10 @@ StrikeThrough
 ~~Hello World~~	: Hello World : use ~
 
 Subscript: 
-H~Helloworld~H
+H~2~O
 
 Superscript:
-^ Hello World ^	: Hello World : use ^
+^Hello^ ^World^	: Hello World : use ^
 
 Unordered List	: Use -
 - Hello World
