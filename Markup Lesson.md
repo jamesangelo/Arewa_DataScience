@@ -20,8 +20,11 @@ _Hello World_ 	: Hello World : use _
 Blockquote
 >Hello World	: Hello World : use >
 
+StrikeThrough
+~~Hello World~~	: Hello World : use ~
+
 Subscript: 
-~~ Hello World ~~	: Hello World : use ~
+~Helloworld~
 
 Superscript:
 ^ Hello World ^	: Hello World : use ^
