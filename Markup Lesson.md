@@ -24,7 +24,7 @@ StrikeThrough
 ~~Hello World~~	: Hello World : use ~
 
 Subscript: 
-~Helloworld~
+H~Helloworld~H
 
 Superscript:
 ^ Hello World ^	: Hello World : use ^
