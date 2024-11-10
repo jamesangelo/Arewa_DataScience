@@ -46,9 +46,9 @@ Ordered List	: use number[1].
 
 ---
 
-[ ] select 1
+- [ ] select 1
 - [ ] select 2
-[x] select 3
-[x] select 4
+- [x] select 3
+- [x] select 4
 
 
